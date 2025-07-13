@@ -28,7 +28,7 @@
 
 You can view a live demo of CyberIntel at:
 
-**[https://cyberintel-demo.vercel.app](https://cyberintel-demo.vercel.app)**
+**[LIve App](https://cyberintela.netlify.app/)**
 
 ---
 
@@ -138,8 +138,8 @@ You can view a live demo of CyberIntel at:
 
 ## Contact
 
-- Email: contact@cyberintel.ai
-- GitHub: [github.com/vannoor/cyberintel](https://github.com/vannoor/cyberintel)
+- Email: vanursab71@gmail.com
+- GitHub: [github.com/vannoor/cyberintel](https://github.com/vannoorsab)
 
 ---
 
